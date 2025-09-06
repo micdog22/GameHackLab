@@ -1,4 +1,4 @@
-# GameHackLab — Laboratório ético de estudo em C++ (sem invasão, sem anti-cheat)
+# GameHackLab — Laboratório ético de estudo em C++
 
 Este projeto oferece um ambiente seguro para estudar conceitos básicos, sem violar termos de uso e sem tocar em processos de terceiros.
 
